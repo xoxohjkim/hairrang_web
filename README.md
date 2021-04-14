@@ -1,7 +1,7 @@
 # JSP/Servlet
 
 ## 주제
-Swing project -> JSP/Servlet
+Swing 기반 미용실 관리 프로그램 -> JSP/Servlet
 <br><br>
 
 ## 사용언어 및 기술 
