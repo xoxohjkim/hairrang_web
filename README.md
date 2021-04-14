@@ -1,4 +1,4 @@
-# 헤어랑 JSP/Servlet
+# JSP/Servlet
 
 ## 주제
 Swing project -> JSP/Servlet
